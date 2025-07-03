@@ -1,0 +1,176 @@
+{
+    "ubuntu": [
+        "ubuntu"
+    ],
+    "debian": [
+        "debian"
+    ],
+    "fedora": [
+        "fedora"
+    ],
+    "arch": [
+        "archlinux"
+    ],
+    "archlinux": [
+        "archlinux"
+    ],
+    "manjaro": [
+        "manjaro"
+    ],
+    "zorin": [
+        "zorin-os",
+        "zorin"
+    ],
+    "linuxmint": [
+        "linuxmint"
+    ],
+    "mint": [
+        "linuxmint"
+    ],
+    "bazzite": [
+        "bazzite"
+    ],
+    "elementary": [
+        "elementary"
+    ],
+    "pop": [
+        "popos",
+        "ubuntu"
+    ],
+    "popos": [
+        "popos",
+        "ubuntu"
+    ],
+    "nobara": [
+        "fedora"
+    ],
+    "puppy": [
+        "puppy"
+    ],
+    "bookworm": [
+        "puppy"
+    ],
+    "slackware": [
+        "slackware"
+    ],
+    "centos": [
+        "centos"
+    ],
+    "rocky": [
+        "rockylinux"
+    ],
+    "alma": [
+        "almalinux"
+    ],
+    "almalinux": [
+        "almalinux"
+    ],
+    "opensuse": [
+        "opensuse"
+    ],
+    "suse": [
+        "opensuse"
+    ],
+    "endeavouros": [
+        "archlinux"
+    ],
+    "garuda": [
+        "archlinux"
+    ],
+    "kali": [
+        "debian"
+    ],
+    "parrot": [
+        "debian"
+    ],
+    "tails": [
+        "debian"
+    ],
+    "windows": [
+        "windows"
+    ],
+    "win10": [
+        "windows"
+    ],
+    "win11": [
+        "windows"
+    ],
+    "winpe": [
+        "windows"
+    ],
+    "rescuezilla": [
+        "ubuntu"
+    ],
+    "clonezilla": [
+        "debian"
+    ],
+    "mx": [
+        "debian"
+    ],
+    "antix": [
+        "debian"
+    ],
+    "trisquel": [
+        "ubuntu"
+    ],
+    "deepin": [
+        "debian"
+    ],
+    "clearlinux": [
+        "clearlinux"
+    ],
+    "rhel": [
+        "redhat"
+    ],
+    "redhat": [
+        "redhat"
+    ],
+    "gentoo": [
+        "gentoo"
+    ],
+    "calculate": [
+        "gentoo"
+    ],
+    "void": [
+        "void"
+    ],
+    "reactos": [
+        "windows"
+    ],
+    "salient": [
+        "archlinux"
+    ],
+    "sparkylinux": [
+        "debian"
+    ],
+    "biglinux": [
+        "archlinux"
+    ],
+    "astra": [
+        "debian"
+    ],
+    "linspire": [
+        "ubuntu"
+    ],
+    "peux": [
+        "ubuntu"
+    ],
+    "blendos": [
+        "archlinux"
+    ],
+    "rhino": [
+        "ubuntu"
+    ],
+    "vanilla": [
+        "archlinux"
+    ],
+    "bookwormpup6410010": [
+        "poppy"
+    ],
+    "zorinlite": [
+        "zorin"
+    ],
+    "linuxmint221cinnamon64bit": [
+        "linuxmint"
+    ]
+}
