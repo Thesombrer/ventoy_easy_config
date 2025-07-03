@@ -1,0 +1,38 @@
+{
+    "theme": {
+        "file": "/Ventoy/Themes/bigsur/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "serial_param": "--unit=0 --speed=9600",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#0000ff",
+        "fonts": [
+            "/ventoy/themes/Tela/terminus-12.pf2",
+            "/ventoy/themes/Tela/terminus-14.pf2",
+            "/ventoy/themes/Tela/terminus-16.pf2"
+        ]
+    },
+    "menu_class": [
+        {
+            "key": "BookwormPup64_10.0.10",
+            "class": "BookwormPup64_10.0.10"
+        },
+        {
+            "key": "Win10",
+            "class": "windows"
+        },
+        {
+            "key": "Zorin-Lite",
+            "class": "zorin-os"
+        },
+        {
+            "key": "bazzite",
+            "class": "Bazzite"
+        },
+        {
+            "key": "linuxmint-22.1-cinnamon-64bit",
+            "class": "linuxmint"
+        }
+    ]
+}
