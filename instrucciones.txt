@@ -1,0 +1,30 @@
+Ventoy - Proyecto
+Descripción
+Este proyecto contiene los archivos necesarios para trabajar con Ventoy. Incluye scripts en Python para programadores y archivos listos para usar por cualquier persona.
+
+Instrucciones de Uso
+Paso 1: Descarga
+Descarga todo el contenido del proyecto y colócalo en una carpeta llamada Ventoy en tu computadora.
+
+Paso 2: Para usuarios sin conocimientos técnicos
+No necesitas preocuparte por los archivos con extensión .py.
+
+Puedes eliminar el archivo .py si no sabes cómo usarlo.
+
+Simplemente utiliza los demás archivos para el funcionamiento básico del proyecto.
+
+Paso 3: Para programadores o usuarios avanzados
+Conserva el archivo .py para poder modificar y ejecutar el código.
+
+Para ejecutar el script Python necesitas tener instalado Python 3.x en tu sistema.
+
+Puedes personalizar y mejorar el proyecto modificando este archivo.
+
+Requisitos
+Python 3.x (solo para quienes deseen ejecutar el archivo .py)
+
+No se requieren otros programas para el uso básico.
+
+
+Autor
+thesombrer
